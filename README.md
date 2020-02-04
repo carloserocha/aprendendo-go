@@ -21,4 +21,4 @@ Quando encontrado erros de código, explicação ou exemplificação, crie uma i
 
 # Considerações finais
 
-Qualquer coisa que seja sujeções/edições, estou à disposição pelo telegram (<a href="https://t.me/crwlos">crwlos</a>.
+Qualquer coisa que seja sujeções/edições, estou à disposição pelo telegram (<a href="https://t.me/crwlos">crwlos</a>).
